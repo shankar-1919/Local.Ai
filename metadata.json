@@ -1,0 +1,6 @@
+{
+  "name": "LocalBiz AI",
+  "description": "Privacy-first offline expense and receipt tracker for small shop owners and freelancers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
